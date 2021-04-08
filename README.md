@@ -1,3 +1,3 @@
-# Bluetooth-car-on-Arduino-with-swivel-wheels
-Remote-controlled car Arduino on a chassis with swivel wheels. Controlled remotely from a smartphone using the Remote XY app.
-
+Машинка с дистанционным управлением по Bluetooth с шасси с поворотными колёсами. 
+Ссылка на проект Remote XY - https://remotexy.com/ru/editor/b60158c4a06ce459750aa2cfed7d6035/
+Ссылка на модели для 3В принтера - https://www.thingiverse.com/thing:4820731
